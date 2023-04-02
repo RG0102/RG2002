@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RG2002
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Html and CSS
+- 🌱 I’m currently learning Java, Python Html, CSS, Javascript, PHP and SQL. 
 - 💞️ I’m looking to collaborate on projects
 
 
