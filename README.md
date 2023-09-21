@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @RG2002
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Java, Python Html, CSS, Javascript, PHP and SQL. 
-- 💞️ I’m looking to collaborate on projects
+Hi, My name is Ritika Gupta! :)
+
+  Welcome to my GitHub account-:
+  
+- I am a result-driven and enthusiastic 3rd-year computer science student with a strong foundation in programming languages including C, Python, and Java. Experienced in web development with expertise in HTML, CSS, JavaScript, and PHP.Skilled in database management using SQL with a proven ability to design and implement complex queries.
+
+Adapt problem-solving skills and algorithm designs, evident throughout projects such as interactive games and a Java-based text search tool. Committed to enhancing the student learning experience as a dedicated Computing Tutorial Student.
+
+Providing comprehensive guidance in Algorithm, Program Design, Math, and Database. Recognized for mentoring incoming students and contributing to team collaboration in various projects. Seeking opportunities to contribute technical expertise to innovative projects in the field of computer science.
 
 
-<!---
-RG2002/RG2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
